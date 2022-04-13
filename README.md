@@ -1,6 +1,6 @@
 # Projeto iMovi
 
-#Tecnologias utilizadas:
+Tecnologias utilizadas:
 - HTML
 - CSS
 - Bootstrap 5
